@@ -1,0 +1,2 @@
+gpg-agent stop/pre-start, process 2209
+gpgconf: warning: can not open config file /home/marro/.gnupg/gpg-agent.conf: No existe el archivo o el directorio
